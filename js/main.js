@@ -4,7 +4,7 @@ var btn = document.querySelector(".box > div button");
 
 function sign() {
 
-    form1.style.left = 0;
+    form1.style.left = "0";
 
     form2.style.left = "100%";
 
@@ -16,7 +16,7 @@ function log() {
 
     form2.style.left = 0;
 
-    form1.style.left = "100%";
+    form1.style.left = "-100%";
 
     btn.style.left = "50%";
 
