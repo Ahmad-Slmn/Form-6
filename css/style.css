@@ -120,9 +120,9 @@ form h2 {
 form i {
     position: absolute;
     bottom: 80px;
-    right: 30px;
+    right: 7%;
     cursor: pointer;
-    display: none 
+    display: none
 }
 
 form input {
