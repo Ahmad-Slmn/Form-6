@@ -23,8 +23,8 @@ a {
 }
 
 ::placeholder {
-   font-weight: bold;
-    transition: var(--trans);
+    font-weight: bold;
+    transition: var(--trans)
 }
 
 :focus::placeholder {
@@ -121,7 +121,8 @@ form i {
     position: absolute;
     bottom: 80px;
     right: 30px;
-    cursor: pointer
+    cursor: pointer;
+    display: none 
 }
 
 form input {
